@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Jon",
+    "coordinates": {
+      "x": 10.0,
+      "y": 1234
+    },
+    "creationDate": "2023-01-28",
+    "salary": 1234.0,
+    "startDate": "2023-02-25",
+    "position": "DIRECTOR",
+    "status": "REGULAR",
+    "organization": {
+      "fullName": "Jon Miller",
+      "employeesCount": 660000,
+      "type": "PUBLIC",
+      "postalAddress": {
+        "zipCode": "12345"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Arcadiy",
+    "coordinates": {
+      "x": 123.0,
+      "y": 14
+    },
+    "creationDate": "2022-04-29",
+    "salary": 105001.0,
+    "startDate": "2022-12-25",
+    "position": "CLEANER",
+    "status": "RECOMMENDED_FOR_PROMOTION",
+    "organization": {
+      "fullName": "Arcadiy Petrov",
+      "employeesCount": 660000,
+      "type": "OPEN_JOINT_STOCK_COMPANY",
+      "postalAddress": {
+        "zipCode": "23689"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ramzan",
+    "coordinates": {
+      "x": 14.0,
+      "y": 365
+    },
+    "creationDate": "2010-05-14",
+    "salary": 1246.0,
+    "startDate": "2010-05-26",
+    "position": "COOK",
+    "status": "PROBATION",
+    "organization": {
+      "fullName": "Ramzan Magomadov",
+      "employeesCount": 94590,
+      "type": "GOVERNMENT",
+      "postalAddress": {
+        "zipCode": "35084"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jonnnn",
+    "coordinates": {
+      "x": 11.0,
+      "y": 1234
+    },
+    "creationDate": "2008-08-08",
+    "salary": 123.0,
+    "startDate": "2008-08-08",
+    "position": "DIRECTOR",
+    "status": "RECOMMENDED_FOR_PROMOTION",
+    "organization": {
+      "fullName": "Jon Miller",
+      "employeesCount": 660000,
+      "type": "PUBLIC",
+      "postalAddress": {
+        "zipCode": "12345"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Гавриил",
+    "coordinates": {
+      "x": 234.0,
+      "y": 34545
+    },
+    "creationDate": "2023-03-17",
+    "salary": 2.34234656E12,
+    "startDate": "2023-01-16",
+    "position": "BAKER",
+    "status": "REGULAR",
+    "organization": {
+      "fullName": "Гавриил",
+      "employeesCount": 4235245,
+      "type": "PUBLIC",
+      "postalAddress": {
+        "zipCode": "Новый"
+      }
+    }
+  }
+]
